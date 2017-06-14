@@ -1,0 +1,9 @@
+This dataset contains data on the sodium and calories
+contained in each of 54 major hotdog brands.  The variables
+are:
+
+    type -- Beef, Meat, or Poultry
+    calories
+    sodium
+
+
